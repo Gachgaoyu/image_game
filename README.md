@@ -1,0 +1,2 @@
+# image_game
+用python完成5年前烂尾的image_game
